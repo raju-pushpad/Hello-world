@@ -14,8 +14,4 @@ fdfd
 
 raju pushpad
 
-<<<<<<< HEAD
-ok now,, every thing is set
-=======
-good
->>>>>>> aca1452786cbd7d4ed5998e3d0b13218ca1b92d9
+ok this is good now
